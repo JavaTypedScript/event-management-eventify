@@ -20,5 +20,6 @@ If you are developing a production application, we recommend using TypeScript wi
 ## Admin Credentials
 ```
   bash
+  cd backend
   node config/seed.js
 ```
